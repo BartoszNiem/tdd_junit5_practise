@@ -1,0 +1,7 @@
+pl\qaaacademy\todo\item\TodoItemArgumentsProvider.class
+pl\qaaacademy\simple\Calculator.class
+pl\qaaacademy\todo\exceptions\IllegalStatusChangeException.class
+pl\qaaacademy\todo\item\TodoItem.class
+pl\qaaacademy\todo\exceptions\TodoItemValidationException.class
+pl\qaaacademy\todo\item\ItemStatus.class
+pl\qaaacademy\todo\item\StatusChangeable.class

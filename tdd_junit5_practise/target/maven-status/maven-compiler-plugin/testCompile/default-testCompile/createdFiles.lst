@@ -1,0 +1,4 @@
+pl\qaaacademy\simple\SimpleJunitTest.class
+pl\qaaacademy\todo\item\BasicTodoItemPropertiesTest.class
+pl\qaaacademy\todo\matchers\ValidTodoItemMatcher.class
+pl\qaaacademy\todo\item\BaseTest.class
