@@ -1,5 +1,6 @@
 package pl.qaaacademy.todo.list;
 
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import pl.qaaacademy.todo.exceptions.InvalidListTitleException;
 import pl.qaaacademy.todo.item.ItemStatus;
@@ -11,6 +12,7 @@ import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
 import static pl.qaaacademy.todo.matchers.ValidTodoItemListMatcher.isValidTodoItemListWith;
+@Tag("unit")
 public class BasicTodoItemListPropertiesTest extends BaseListTest{
 
     @Test
